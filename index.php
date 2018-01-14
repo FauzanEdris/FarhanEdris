@@ -130,10 +130,10 @@ body
 		
 	</div>
 	<div id="kotak"><p align="center"><marquee scrolldelay="90"></marquee>  
-      <img src="Dw Wisata Bali/Dream weaver//Foto/ashbdhjksabd.png" width="429" height="296">    	</div>
+      <img src="Dw Wisata Bali/Foto/ashbdhjksabd.png" width="429" height="296">    	</div>
 	
 <div id="footer"><b>
-  <p align="center"><img id="gambar" src="Dw Wisata Bali/Dream weaver//Gambar/1.jpg" p >
+  <p align="center"><img id="gambar" src="Dw Wisata Bali/Gambar/1.jpg" p >
 <p align="center">OM SWASTIASTU</b><br/></div>
 <b><p align="center">Selamat Selamat Selamat Datang!!!</b><br/>
 	
