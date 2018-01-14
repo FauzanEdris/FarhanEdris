@@ -116,12 +116,12 @@ body
 	<div id="topmenu">
 	
 		<ul>
-			<li><a href="home.php">Home</a></li>
-			<li><a href="jelajah.php">Tempat Wisata</a></li>	
+			<li><a href="Dw Wisata Bali/Dream weaver/home.php">Home</a></li>
+			<li><a href="Dw Wisata Bali/Dream weaver/jelajah.php">Tempat Wisata</a></li>	
 		  <li><a href="#">Register</a>	
 			<ul>
-					<li><a href="pendaftaran.php">Daftar</a></li>
-					<li><a href="login.php">Login</a></li>
+					<li><a href="Dw Wisata Bali/Dream weaver/pendaftaran.php">Daftar</a></li>
+					<li><a href="Dw Wisata Bali/Dream weaver/login.php">Login</a></li>
 				</ul>
 			</li>
 			<li><a href="#">Kontak Kami</a></li>
